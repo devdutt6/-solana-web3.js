@@ -1,0 +1,12 @@
+{
+  "name": "Tryweb3",
+  "version": "1.0.0",
+  "description": "learning @web3/solana",
+  "main": "app.js",
+  "repository": "git@github.com:devdutt6/-solana-web3.js.git",
+  "author": "Devdutt",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
